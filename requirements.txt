@@ -1,0 +1,28 @@
+# VidHarvester - Video Link Harvester & Downloader
+# Core dependencies
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+yt-dlp>=2024.12.0
+tqdm>=4.66.0
+
+# URL / parsing / data
+urllib3>=2.0.0
+
+# Optional but recommended for nice CLI output
+rich>=13.0.0
+
+# GUI (Streamlit)
+streamlit>=1.38.0
+pandas>=2.0.0
+
+# Playwright is OPTIONAL for JavaScript-heavy sites.
+# Install separately with: pip install playwright && playwright install
+# Do NOT put in base requirements to avoid forcing browser deps on everyone.
+# playwright>=1.45.0
+
+# Dev / extras (optional)
+# python-dotenv>=1.0.0
+
+# Testing (optional but recommended)
+# pytest>=8.0.0

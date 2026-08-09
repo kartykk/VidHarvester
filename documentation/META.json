@@ -1,0 +1,13 @@
+{
+  "slug": "vidharvester",
+  "path": "/Volumes/A/code/VidHarvester",
+  "type": "software",
+  "stack": [
+    "python"
+  ],
+  "has_git": true,
+  "status": "active",
+  "last_reviewed": "2026-07-27",
+  "doc_version": 1,
+  "catalog": "/Volumes/A/Documents/project-documentation/projects/vidharvester/SUMMARY.md"
+}
